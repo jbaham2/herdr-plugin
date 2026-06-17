@@ -1,0 +1,19 @@
+# Authoring scratch — never shipped
+workbench/
+meta/
+
+# Session memory / remember scratch
+.remember/
+
+# The builder prompt artifacts (not part of the plugin)
+herdr-plugin-prompt.md
+prompt/
+prompt-builder.md
+prompt-methodology.md
+prompt.md
+
+# Secrets & caches
+.env
+*.log
+.DS_Store
+__pycache__/

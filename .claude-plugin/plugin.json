@@ -1,0 +1,21 @@
+{
+  "name": "herdr",
+  "version": "0.1.0",
+  "description": "Makes Claude an expert at herdr, the agent-aware terminal multiplexer: herding fleets of agents, designing and restoring workspace/tab/pane layouts, monitoring agent state, managing sessions, and authoring configuration. Vendors the official herdr agent skill and complements it with workflow judgment.",
+  "author": {
+    "name": "jbaham2",
+    "email": "jbaham2@gmail.com"
+  },
+  "homepage": "https://herdr.dev/docs/",
+  "repository": "https://github.com/ogulcancelik/herdr",
+  "license": "AGPL-3.0-or-later",
+  "keywords": [
+    "herdr",
+    "terminal-multiplexer",
+    "agents",
+    "multi-agent",
+    "tmux",
+    "workspace",
+    "orchestration"
+  ]
+}

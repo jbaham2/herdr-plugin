@@ -1,0 +1,26 @@
+herdr Claude Code plugin
+Copyright (C) 2026 jbaham2
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU Affero General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option) any
+later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License along
+with this program. If not, see <https://www.gnu.org/licenses/>.
+
+----------------------------------------------------------------------------
+
+Why AGPL: this plugin vendors the official herdr agent skill
+(`skills/herdr-agent-skill/SKILL.md`), which is distributed by the herdr project
+under AGPL-3.0-or-later (herdr is dual-licensed). To redistribute that file
+without a license conflict, the whole plugin is licensed AGPL-3.0-or-later.
+
+The full AGPL-3.0 license text is included verbatim at
+`skills/herdr-agent-skill/LICENSE` (the upstream copy shipped with the vendored
+file). See `skills/herdr-agent-skill/VENDORED.md` for provenance and the pinned
+upstream commit.

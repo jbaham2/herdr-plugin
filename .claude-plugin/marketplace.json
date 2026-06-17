@@ -1,0 +1,14 @@
+{
+  "name": "herdr-marketplace",
+  "owner": {
+    "name": "jbaham2",
+    "email": "jbaham2@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "herdr",
+      "source": "./",
+      "description": "Expert plugin for herdr, the agent-aware terminal multiplexer: multi-agent assignments, layouts, agent monitoring, workspace management, and configuration."
+    }
+  ]
+}
